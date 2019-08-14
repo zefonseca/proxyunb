@@ -7,13 +7,16 @@ package br.unb.redes
 * Redes de Computadores - 116572
 * Prof: Marcos Fagundes Caetano
 *
-* Aluno: José M. A. Fonseca 12/0033933
+* Aluno: Jose Fonseca (https://zefonseca.com/)
 *
 * RCProxy - Proxy HTTP com filtragem e white/blacklists.
 * Trabalho final do curso de Redes de Computadores.
 *
 *
 * Funções de estatísticas armazenadas em banco de dados via JDBC.
+*
+*
+* This software is released under the MIT license. See the accompanying COPYING or LICENSE file.
 *
 * */
 
